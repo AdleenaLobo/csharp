@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LOBO\\source\\repos\\String methods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1852A1B9-3CDD-4D83-9AA5-A94D23A07829}|String methods.csproj|c:\\users\\lobo\\source\\repos\\string methods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1852A1B9-3CDD-4D83-9AA5-A94D23A07829}|String methods.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1852A1B9-3CDD-4D83-9AA5-A94D23A07829}|String methods.csproj|c:\\users\\lobo\\source\\repos\\string methods\\obj\\debug\\net8.0\\string methods.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1852A1B9-3CDD-4D83-9AA5-A94D23A07829}|String methods.csproj|solutionrelative:obj\\debug\\net8.0\\string methods.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1852A1B9-3CDD-4D83-9AA5-A94D23A07829}|String methods.csproj|c:\\users\\lobo\\source\\repos\\string methods\\string methods.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1852A1B9-3CDD-4D83-9AA5-A94D23A07829}|String methods.csproj|solutionrelative:string methods.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "String methods.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\Users\\LOBO\\source\\repos\\String methods\\obj\\Debug\\net8.0\\String methods.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\String methods.GlobalUsings.g.cs",
+              "ToolTip": "C:\\Users\\LOBO\\source\\repos\\String methods\\obj\\Debug\\net8.0\\String methods.GlobalUsings.g.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\String methods.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:14:52.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "String methods",
+              "DocumentMoniker": "C:\\Users\\LOBO\\source\\repos\\String methods\\String methods.csproj",
+              "RelativeDocumentMoniker": "String methods.csproj",
+              "ToolTip": "C:\\Users\\LOBO\\source\\repos\\String methods\\String methods.csproj",
+              "RelativeToolTip": "String methods.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-04T05:15:05.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LOBO\\source\\repos\\String methods\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\LOBO\\source\\repos\\String methods\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T05:14:23.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

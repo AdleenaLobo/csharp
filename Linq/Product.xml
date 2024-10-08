@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+	<Product>
+		<pid>1</pid>
+		<pname>delllaptop</pname>
+		<price>80000</price>
+		<dom>09-07-14</dom>
+	</Product>
+	<Product>
+		<pid>2</pid>
+		<pname>hplaoptop</pname>
+		<price>35000</price>
+		<dom>10-07-14</dom>
+	</Product>
+	<Product>
+		<pid>3</pid>
+		<pname>delllaptop</pname>
+		<price>70000</price>
+		<dom>11-07-14</dom>
+	</Product>
+	<Product>
+		<pid>4</pid>
+		<pname>hplaptop</pname>
+		<price>90000</price>
+		<dom>12-07-14</dom>
+	</Product>
+</Products>

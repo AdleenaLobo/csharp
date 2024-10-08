@@ -1,0 +1,14 @@
+C:\Users\LOBO\source\repos\String methods\bin\Debug\net8.0\String methods.exe
+C:\Users\LOBO\source\repos\String methods\bin\Debug\net8.0\String methods.deps.json
+C:\Users\LOBO\source\repos\String methods\bin\Debug\net8.0\String methods.runtimeconfig.json
+C:\Users\LOBO\source\repos\String methods\bin\Debug\net8.0\String methods.dll
+C:\Users\LOBO\source\repos\String methods\bin\Debug\net8.0\String methods.pdb
+C:\Users\LOBO\source\repos\String methods\obj\Debug\net8.0\String methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOBO\source\repos\String methods\obj\Debug\net8.0\String methods.AssemblyInfoInputs.cache
+C:\Users\LOBO\source\repos\String methods\obj\Debug\net8.0\String methods.AssemblyInfo.cs
+C:\Users\LOBO\source\repos\String methods\obj\Debug\net8.0\String methods.csproj.CoreCompileInputs.cache
+C:\Users\LOBO\source\repos\String methods\obj\Debug\net8.0\String methods.dll
+C:\Users\LOBO\source\repos\String methods\obj\Debug\net8.0\refint\String methods.dll
+C:\Users\LOBO\source\repos\String methods\obj\Debug\net8.0\String methods.pdb
+C:\Users\LOBO\source\repos\String methods\obj\Debug\net8.0\String methods.genruntimeconfig.cache
+C:\Users\LOBO\source\repos\String methods\obj\Debug\net8.0\ref\String methods.dll
